@@ -6,6 +6,18 @@ Un portal de noticias dinámico que utiliza News API para mostrar artículos en 
 
 Noticiero Digital es una aplicación web que muestra noticias actualizadas de diversas categorías (general, negocios, entretenimiento, etc.) utilizando la API pública de News API. El sistema presenta una interfaz limpia y amigable para el usuario, con tarjetas de noticias, paginación y filtrado por categorías.
 
+## Estructura del Proyecto
+
+```
+/noticiero-digital/
+├── index.php            # Archivo principal con la lógica de presentación
+├── functions.php        # Funciones para API requests
+├── styles.css           # Estilos personalizados
+├── README.md            # Documentación del proyecto
+└── templates/
+    ├── header.php       # Plantilla del encabezado
+    └── footer.php       # Plantilla del pie de página
+```
 
 ## Características
 
@@ -82,6 +94,17 @@ Las contribuciones son bienvenidas. Para contribuir:
 4. Haz commit de tus cambios (`git commit -m 'Agrega nueva característica'`)
 5. Haz push a la rama (`git push origin feature/nueva-caracteristica`)
 6. Abre un Pull Request
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
+
+## Créditos
+
+- News API - [newsapi.org](https://newsapi.org)
+- Random User API - [randomuser.me](https://randomuser.me)
+- Bootstrap - [getbootstrap.com](https://getbootstrap.com)
+- Font Awesome - [fontawesome.com](https://fontawesome.com)
 
 ## Licencia
 
