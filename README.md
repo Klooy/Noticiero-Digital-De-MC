@@ -2,6 +2,9 @@
 
 Un portal de noticias dinámico que utiliza News API para mostrar artículos en tiempo real, organizados por categorías y con un diseño responsive.
 
+Replit.dev para ver el proyecto de forma online;
+https://aee6f7e1-903f-457a-ae85-bc06a6b497a8-00-20ctk0gz9c2ml.worf.replit.dev/
+
 ## Descripción
 
 Noticiero Digital es una aplicación web que muestra noticias actualizadas de diversas categorías (general, negocios, entretenimiento, etc.) utilizando la API pública de News API. El sistema presenta una interfaz limpia y amigable para el usuario, con tarjetas de noticias, paginación y filtrado por categorías.
